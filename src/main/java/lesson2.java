@@ -20,5 +20,9 @@ public class lesson2 {
         System.out.println(s3);
         System.out.println(s4);
 
+        char c1 = 500;
+        System.out.println("====================================");
+        System.out.println(c1);
+
     }
 }
