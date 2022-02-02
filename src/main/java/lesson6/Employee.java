@@ -7,10 +7,11 @@ public class Employee {
     double salary;
     String departament;
 
+    //перегрузка конструктора с помощью ключегого слова this
+
     public Employee(int id2, String surname2, int age2) {
         this(id2,surname2, age2, 0.0, null);
     }
-
      public Employee(String surname3, int age3) {
          this(0,surname3, age3, 0.0, null);
     }
