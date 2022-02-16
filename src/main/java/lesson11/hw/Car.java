@@ -13,8 +13,8 @@ public class Car {
 }
 
 class CarTest {
-    public static void changeColDoors(Car door1) {
-        door1.col_doors = 4;
+    public static void changeColDoors(Car door1, int changeDoors) {
+        door1.col_doors = changeDoors;
     }
 
     public static void swap (Car col1, Car col2) {
@@ -28,7 +28,10 @@ class CarTest {
     public static void main(String[] args) {
         Car car1 = new Car("red", "v3", 2);
         System.out.println(car1.col_doors);
-        changeColDoors(car1);
+        changeColDoors(car1,10);
         System.out.println(car1.col_doors);
+        Car car2 = new Car("blue", "v3", 3);
+        Car car3 = new Car("black", "v3", 5);
+        swap(car2, car3);
     }
 }
