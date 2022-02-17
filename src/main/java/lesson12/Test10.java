@@ -12,5 +12,9 @@ public class Test10 {
         else {
             System.out.println("a bolshe 20");
         }
+        int y =20;
+        int x = 10;
+        int m = (y>x)?y:x; //ternary оператор
+        System.out.println(m);
     }
 }
