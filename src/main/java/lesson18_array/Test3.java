@@ -19,7 +19,7 @@ public class Test3 {
         }
 
         System.out.println();
-        int index1 = Arrays.binarySearch(array1, -8); // выполняет поиск определённого значения в определённом массиве
+        int index1 = Arrays.binarySearch(array1, -8); // выполняет поиск определённого значения в определённом массиве. Работает только в отсортированном массиве.
         System.out.println(index1);
     }
 }
