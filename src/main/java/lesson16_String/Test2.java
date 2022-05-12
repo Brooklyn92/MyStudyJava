@@ -19,7 +19,7 @@ public class Test2 {
         System.out.println(s13);
 
         String s2 = new String("Привет");
-        String s14 = s2.replace('П', 'п'); // заменяет симсволы или символы на новые значения.
+        String s14 = s2.replace("П","п"); // заменяет симсволы или символы на новые значения.
         System.out.println(s14);
 
         String s15 = s2.replace("вет", "вивка"); // заменяет симсволы или символы на новые значения.
