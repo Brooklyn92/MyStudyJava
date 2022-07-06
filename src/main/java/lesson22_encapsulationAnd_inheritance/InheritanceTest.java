@@ -41,7 +41,7 @@ class Teacher  extends Employee {
 
 class Driver  extends Employee {
     String nameCar;
-    void teach () {
+    void drive () {
         System.out.println("Водить");
     }
 }
