@@ -1,4 +1,4 @@
-package Lesson23_OverridingHidingFinal;
+package Lesson23_Overriding_Hiding_Final;
 
 public class Test1 {
     public static void main(String[] args) {
