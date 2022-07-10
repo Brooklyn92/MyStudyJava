@@ -1,4 +1,4 @@
-package lesson22_encapsulationAnd_inheritance;
+package lesson22_encapsulationAnd_nasledovanie;
 
 public class Human {
 

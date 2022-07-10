@@ -1,4 +1,4 @@
-package lesson22_encapsulationAnd_inheritance.hw22;
+package lesson22_encapsulationAnd_nasledovanie.hw22;
 
 public class Student {
     private StringBuilder name;
