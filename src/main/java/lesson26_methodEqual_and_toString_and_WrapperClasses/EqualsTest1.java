@@ -12,7 +12,7 @@ public class EqualsTest1 {
         list.add(c1);
         list.add(c2);
         list.add(c3);
-        System.out.println(list.contains(c4));
+        System.out.println(list);
     }
 }
 
@@ -31,5 +31,9 @@ class Car {
         else {
             return false;
         }
+    }
+
+    public String toString() {
+        return "Car color " + color + " and engine " + engine;
     }
 }
