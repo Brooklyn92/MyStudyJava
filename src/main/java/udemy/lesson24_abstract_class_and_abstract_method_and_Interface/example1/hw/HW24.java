@@ -1,4 +1,4 @@
-//package udemy.lesson24_abstract_class_and_abstract_method_and_Interface.hw;
+//package udemy.lesson24_abstract_class_and_abstract_method_and_Interface.example1.hw;
 //
 //public class HW24 {
 //    public static void main(String[] args) {

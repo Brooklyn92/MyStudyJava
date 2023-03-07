@@ -1,4 +1,4 @@
-package udemy.lesson24_abstract_class_and_abstract_method_and_Interface;
+package udemy.lesson24_abstract_class_and_abstract_method_and_Interface.example1;
 
 public class TestDefaultMethodInInterface {
     public static void main(String[] args) {
