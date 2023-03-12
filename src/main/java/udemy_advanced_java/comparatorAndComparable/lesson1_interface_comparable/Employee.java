@@ -1,4 +1,4 @@
-package udemy_advanced_java.lesson1_interface_comparable;
+package udemy_advanced_java.comparatorAndComparable.lesson1_interface_comparable;
 
 public class Employee implements Comparable<Employee> {
     int id;

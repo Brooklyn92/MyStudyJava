@@ -1,4 +1,4 @@
-package udemy_advanced_java.lesson1_interface_comparable;
+package udemy_advanced_java.comparatorAndComparable.lesson2_interface_comparator;
 
 import java.util.ArrayList;
 import java.util.Collections;
