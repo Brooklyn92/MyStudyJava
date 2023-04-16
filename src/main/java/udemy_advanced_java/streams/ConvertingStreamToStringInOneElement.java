@@ -1,3 +1,5 @@
+package udemy_advanced_java.streams;
+
 import udemy_advanced_java.streams.lesson2.Student;
 
 import java.util.*;
