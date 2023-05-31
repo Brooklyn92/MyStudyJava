@@ -20,6 +20,8 @@ public class ConvertingStreamToStringInOneElement {
         students.add(student4);
         students.add(student5);
 
+        students.forEach(student -> System.out.println(student.getName()));
+
 //        List<Student> strings = students.stream().filter(el -> el.getName() == "Ivan").collect(Collectors.toList());
 //        String s = strings.stream().distinct().findFirst().get().getName();
 //        System.out.println(s);
