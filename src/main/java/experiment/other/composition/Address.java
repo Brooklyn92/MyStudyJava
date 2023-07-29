@@ -1,4 +1,4 @@
-package other.composition;
+package experiment.other.composition;
 
 public class Address {
     private String street;

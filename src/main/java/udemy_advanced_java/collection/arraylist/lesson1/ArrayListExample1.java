@@ -1,4 +1,4 @@
-package udemy_advanced_java.collection.lesson1;
+package udemy_advanced_java.collection.arraylist.lesson1;
 
 import java.util.ArrayList;
 import java.util.List;

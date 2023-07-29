@@ -1,4 +1,4 @@
-package other.composition;
+package experiment.other.composition;
 
 public class CompositionTest {
     public static void main(String[] args) {

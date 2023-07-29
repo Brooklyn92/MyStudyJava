@@ -1,7 +1,4 @@
-package regEx;
-
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+package experiment.regEx;
 
 public class RegExTest1 {
     public static void main(String[] args) {
@@ -24,8 +21,8 @@ public class RegExTest1 {
 //        System.out.println("");
 
         //=====Пример-2=============================================
-//        String regEx = "/(?:\\+|\\d)[\\d\\-\\(\\) ]{9,}\\d/g";
+//        String experiment.regEx = "/(?:\\+|\\d)[\\d\\-\\(\\) ]{9,}\\d/g";
 //        String test = "С целью безопасности Вам было отправлено сообщение на норме телефона: +79398857463";
-//        System.out.println(test.matches(regEx));
+//        System.out.println(test.matches(experiment.regEx));
     }
 }

@@ -1,4 +1,4 @@
-package other.aggregation;
+package experiment.other.aggregation;
 
 public class Customer {
     private String name;

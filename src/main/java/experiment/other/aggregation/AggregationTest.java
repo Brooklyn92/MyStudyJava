@@ -1,4 +1,4 @@
-package other.aggregation;
+package experiment.other.aggregation;
 
 public class AggregationTest {
     public static void main(String[] args) {
