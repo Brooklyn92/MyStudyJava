@@ -1,10 +1,7 @@
 package udemy_advanced_java.streams.lesson1;
 
-import udemy.lesson30_lambda.I;
-
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class MethodMap2 {
     public static void main(String[] args) {

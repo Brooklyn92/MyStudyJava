@@ -1,10 +1,7 @@
 package udemy_advanced_java.streams.lesson4;
 
-import udemy.lesson30_lambda.I;
-
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 
 public class MethodReduce {
     public static void main(String[] args) {
